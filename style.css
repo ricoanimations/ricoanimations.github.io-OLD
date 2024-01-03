@@ -6,7 +6,23 @@
 }
 
 a {
-    color: blue;
+    color: rgb(0, 128, 255)
+}
+
+b {
+   color: lime;
+}
+
+c {
+    color: yellow;
+}
+
+d {
+    color: orange;
+}
+
+e {
+    color: red;
 }
 
 body {
