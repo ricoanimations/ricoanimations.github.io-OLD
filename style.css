@@ -9,19 +9,19 @@ a {
     color: rgb(0, 128, 255)
 }
 
-b0 {
+a.two {
    color: lime;
 }
 
-c {
+a.three {
     color: yellow;
 }
 
-d {
+a.four {
     color: orange;
 }
 
-e {
+a.five {
     color: red;
 }
 
